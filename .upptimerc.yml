@@ -4,6 +4,12 @@ user-agent: typicalninja493
 sites: # List of endpoints to track
   - name: Main website
     url: https://www.axixbot.tk/
+   - name: Axix(bot)
+    url: $BOT
+   - name: Docs
+    url: $DOCS
+   - name: Vote webhook
+    url: $VWEBHOOK
 assignees: # Users to assign downtime issues (optional)
   - typicalninja493
 status-website: # Status website (optional)
