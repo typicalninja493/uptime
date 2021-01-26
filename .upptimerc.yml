@@ -4,17 +4,18 @@ user-agent: typicalninja493
 sites: # List of endpoints to track
   - name: Main website
     url: https://www.axixbot.tk/
-   - name: Axix(bot)
+  - name: Axix(bot)
     url: $BOT
-   - name: Docs
+  - name: Docs
     url: $DOCS
-   - name: Vote webhook
+  - name: Vote webhook
     url: $VWEBHOOK
 assignees: # Users to assign downtime issues (optional)
   - typicalninja493
 status-website: # Status website (optional)
   baseUrl: /uptime
-  name: Uptime
+  name: Axix
+  logoUrl: https://www.axixbot.tk/css/favicon.ico
 
 
 # Upptime also supports notifications, assigning issues, and more
