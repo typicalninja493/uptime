@@ -2,12 +2,12 @@ owner: typicalninja493 # GitHub username
 repo: uptime # GitHub repository name
 user-agent: typicalninja493
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: Main website
+    url: https://www.axixbot.tk/
 assignees: # Users to assign downtime issues (optional)
   - typicalninja493
 status-website: # Status website (optional)
-  baseUrl: /repo
+  baseUrl: /uptime
   name: Uptime
 
 
