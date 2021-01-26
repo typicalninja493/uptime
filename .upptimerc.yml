@@ -13,10 +13,11 @@ sites: # List of endpoints to track
 assignees: # Users to assign downtime issues (optional)
   - typicalninja493
 status-website: # Status website (optional)
-  baseUrl: /uptime
+  cname: status.axixbot.tk
   name: Axix
   logoUrl: https://www.axixbot.tk/css/favicon.ico
 
-
+i18n:
+  footer: powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
