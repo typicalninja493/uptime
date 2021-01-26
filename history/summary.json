@@ -22,19 +22,19 @@
     "url": "$BOT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "axix-bot",
-    "status": "down",
-    "uptime": "81.23%",
-    "uptimeDay": "81.23%",
-    "uptimeWeek": "81.23%",
-    "uptimeMonth": "81.23%",
-    "uptimeYear": "81.23%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "19.49%",
+    "uptimeDay": "19.49%",
+    "uptimeWeek": "19.49%",
+    "uptimeMonth": "19.49%",
+    "uptimeYear": "19.49%",
+    "time": 17656,
+    "timeDay": 17656,
+    "timeWeek": 17656,
+    "timeMonth": 17656,
+    "timeYear": 17656,
     "dailyMinutesDown": {
-      "2021-01-26": 0
+      "2021-01-26": 7
     }
   },
   {
