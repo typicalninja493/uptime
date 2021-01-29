@@ -4,8 +4,6 @@ user-agent: typicalninja493
 sites: # List of endpoints to track
   - name: Main website
     url: https://www.axixbot.tk/
-  - name: Axix(bot)
-    url: $BOT
   - name: Docs
     url: $DOCS
   - name: Vote webhook
