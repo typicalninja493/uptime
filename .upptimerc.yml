@@ -8,6 +8,12 @@ sites: # List of endpoints to track
     url: $DOCS
   - name: Vote webhook
     url: $VWEBHOOK
+  - name: Lavalink Node1
+    url: $lava
+    expectedStatusCodes:
+      - 200
+      - 401
+      - 404
 assignees: # Users to assign downtime issues (optional)
   - typicalninja493
 status-website: # Status website (optional)
