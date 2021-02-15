@@ -26,19 +26,19 @@
     "url": "$DOCS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 679,
-    "timeWeek": 824,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 840,
+    "timeDay": 596,
+    "timeWeek": 788,
+    "timeMonth": 840,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2021-02-15": 0
+      "2021-02-15": 27
     }
   },
   {
