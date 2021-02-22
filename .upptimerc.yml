@@ -8,6 +8,8 @@ sites: # List of endpoints to track
     url: $DOCS
   - name: Vote webhook
     url: $VWEBHOOK
+  - name: Axix bot
+    url: $BOT
   - name: Lavalink Node1
     url: $lava
     expectedStatusCodes:
