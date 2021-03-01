@@ -3,7 +3,7 @@ repo: uptime # GitHub repository name
 user-agent: typicalninja493
 sites: # List of endpoints to track
   - name: Main website
-    url: https://www.axixbot.tk/
+    url: https://axixbot.cf/
   - name: Docs
     url: $DOCS
   - name: Vote webhook
@@ -21,9 +21,9 @@ sites: # List of endpoints to track
 assignees: # Users to assign downtime issues (optional)
   - typicalninja493
 status-website: # Status website (optional)
-  cname: status.axixbot.tk
+  cname: status.axixbot.cf
   name: Axix
-  logoUrl: https://www.axixbot.tk/css/favicon.ico
+  logoUrl: https://axixbot.tk/css/favicon.ico
 
 i18n:
   footer: powered by [Upptime](https://upptime.js.org)
