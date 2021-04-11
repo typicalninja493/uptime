@@ -2,7 +2,7 @@ owner: typicalninja493 # GitHub username
 repo: uptime # GitHub repository name
 user-agent: typicalninja493
 sites: # List of endpoints to track
-  - name: Main website
+  - name: Main website/ dashboard
     url: https://axixbot.cf/
   - name: Docs
     url: $DOCS
