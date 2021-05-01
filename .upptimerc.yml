@@ -12,12 +12,7 @@ sites: # List of endpoints to track
     url: $BOT
   - name: Lavalink Node1
     url: $lava
-    expectedStatusCodes:
-      - 200
-      - 401
-      - 404
-      - 500
-      - 403
+  
 assignees: # Users to assign downtime issues (optional)
   - typicalninja493
 status-website: # Status website (optional)
