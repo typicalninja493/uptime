@@ -1,7 +1,7 @@
 url: $VWEBHOOK
-status: down
-code: 404
-responseTime: 5464
-lastUpdated: 2021-06-23T15:58:40.483Z
+status: up
+code: 200
+responseTime: 6499
+lastUpdated: 2021-06-23T16:28:57.229Z
 startTime: Tue Jan 26 2021 11:52:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
